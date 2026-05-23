@@ -1,0 +1,32 @@
+# ML-Pipeline
+
+Repositório prático Guia de Machine Learning clássico e Engenharia de LLMs.
+Pipeline completo: dados → pré-processamento → treino → avaliação → deploy.
+
+---
+
+## Roadmap
+
+| Etapa | Tema | Stack |
+|-------|------|-------|
+| 01 | Python sólido + manipulação de dados | pandas, numpy |
+| 02 | ML clássico + avaliação de modelos | sklearn, matplotlib |
+| 03 | NLP do zero ao embedding | sentence-transformers, UMAP |
+| 04 | Similaridade, busca e recuperação vetorial | FAISS |
+| 05 | Arquitetura Transformer + geração de texto | Anthropic API |
+| 06 | Prompt Engineering avançado | Anthropic API |
+| 07 | Bancos vetoriais + pipeline de ingestão | ChromaDB |
+| 08 | RAG básico a avançado | ChromaDB, LangChain |
+| 09 | Avaliação e otimização de RAG | RAGAS |
+| 10 | Agentes LLM + tool use | LangChain, LlamaIndex |
+| 11 | Arquitetura de sistemas de IA | — |
+| 12 | FastAPI + Streamlit + deploy | FastAPI, Streamlit, Railway |
+
+---
+
+## Objetivo
+
+Dominar o ciclo completo de ML clássico e engenharia de LLMs —
+desde manipulação de dados até deploy de sistemas RAG e agentes autônomos em produção.
+
+by: Gabriel Anthony

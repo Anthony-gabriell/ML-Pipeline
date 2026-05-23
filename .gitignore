@@ -1,0 +1,49 @@
+# ambientes virtuais
+.venv/
+venv/
+env/
+
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# jupyter
+.ipynb_checkpoints/
+
+# dados e modelos
+*.csv
+*.json
+*.pkl
+*.h5
+*.pt
+*.bin
+data/
+datasets/
+
+# variáveis de ambiente
+.env
+.env.local
+*.env
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# sistema operacional
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+logs/
+
+# credenciais e chaves
+*.key
+*.pem
+secrets/
